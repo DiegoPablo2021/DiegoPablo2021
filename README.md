@@ -3,7 +3,7 @@
     <img align="left" 
       src="https://github.com/omagopatolino/DiegoPablo2021/blob/main/DiegoGithub-min.png?raw=true" 
       alt="Diego Pablo Animado" 
-      style="width: 250px; height: auto; margin-top: 20px;"
+      style="width: 200px; height: auto; margin-top: 20px;"
     />
   </div>
     <ul style="margin: 1rem;">
